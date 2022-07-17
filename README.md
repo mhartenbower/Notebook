@@ -1,2 +1,2 @@
 # Notebook
-A collection of notes on various topics.
+A collection of notes and links on various topics.
